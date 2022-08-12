@@ -9,7 +9,7 @@ library('janitor')
 library('skimr')
 library('dplyr')
 
-setwd("/Users/17186/Desktop/Bella Beats")
+setwd("/Users//Desktop/Bella Beats")
 
 dailyCalories_merged <- read.csv("C:/Users/17186/Desktop/Bella Beats/dailyCalories_merged.csv")
 dailyIntensities_merged <- read.csv("C:/Users/17186/Desktop/Bella Beats/dailyIntensities_merged.csv")
